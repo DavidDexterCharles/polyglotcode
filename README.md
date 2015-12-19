@@ -8,4 +8,4 @@ http://githut.info/
 
 https://api.github.com/repositories?since=364%3E;%20rel=%22next%22 #list repos since etc
 
-https://api.github.com/repos/ICE-WOLF/phpcodelink/languages # get the Languages for a specific repo belonging to ICE-WOLF
+https://api.github.com/repos/ICE-WOLF/phpcodelink/languages #  Languages for a specified repo of ICE-WOLF
