@@ -1,4 +1,4 @@
-# CodePolygot
+# CodePolyglot
 
 https://developer.github.com/v3/repos/#list-languages
 
