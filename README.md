@@ -21,3 +21,5 @@ https://api.github.com/users/ICE-WOLF/followers #get ICE-WOLF followers
 https://api.github.com/users/ICE-WOLF/following #get ICE-WOLF following
 
 https://api.github.com/users/ICE-WOLF #gets a single user
+
+https://api.github.com/repos/ICE-WOLF/Hotel-Reservation-System/languages
