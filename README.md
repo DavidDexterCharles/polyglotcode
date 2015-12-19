@@ -1,4 +1,4 @@
-# CodePolyglot
+# polyglotcode
 
 https://developer.github.com/v3/repos/#list-languages
 
