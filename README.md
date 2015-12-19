@@ -2,7 +2,7 @@
 
 https://developer.github.com/v3/repos/#list-languages
 
-https://api.github.com/users/ICE-WOLF/repos
+https://api.github.com/users/ICE-WOLF/repos # all repos belonging to ICE-WOLF
 
 http://githut.info/
 
