@@ -27,3 +27,4 @@ https://en.wikipedia.org/wiki/List_of_programming_languages # List of programmin
 >Wikipedia api (Shows all the available levels/sections of wiki page)
 https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programming_languages&prop=sections 
 
+>wikipedia api ( Get info of a particular page based on section number) https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programming_languages&prop=text&section=1
