@@ -24,16 +24,13 @@ https://api.github.com/users/ICE-WOLF #gets a single user
 
 https://en.wikipedia.org/wiki/List_of_programming_languages # List of programming languages
 
-#########
-
-+Add a Python Experience
-+Add a Java Experience
-
-
-
-
 
 >Wikipedia api (Shows all the available levels/sections of wiki page)
 https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programming_languages&prop=sections 
 
 >wikipedia api ( Get info of a particular page based on section number) https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programming_languages&prop=text&section=1
+
++Add a Python Experience
+
++Add a Java Experience
+
