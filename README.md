@@ -8,6 +8,8 @@ http://githut.info/
 
 https://api.github.com/repositories?since=364%3E;%20rel=%22next%22 #list repos since etc
 
+>List languages for the specified repository. The value on the right of a language is the number of bytes of code written in that language.
+
 https://api.github.com/repos/ICE-WOLF/phpcodelink/languages #  Languages for a specified repo of ICE-WOLF
 
 https://api.github.com/repos/ICE-WOLF/3150_Project/languages #  Languages for a specified repo of ICE-WOLF
