@@ -1,5 +1,5 @@
 # polyglotcode
-
+#Tutorials: https://www.youtube.com/watch?v=Wb-K40mkhEU&index=2&list=PL0DA14EB3618A3507
 https://developer.github.com/v3/repos/#list-languages
 
 https://api.github.com/users/ICE-WOLF/repos # all repos belonging to ICE-WOLF
