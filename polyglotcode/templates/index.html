@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<body>
+	
+		<form action ="/" method="post">
+		  Enter Python to execute:<br>
+		  <input type="text" name="expression">
+		  <input type="submit" name="Execute">
+		</form>
+		{% with messages = get_flashed_messages() %}
+			{% if messages %}
+				Results:
+				<
+					{% for message in messages %}
+						{{message}}
+					{% endfor %}
+				</pre>
+			{% endif %}
+		{% endwith %}
+				
+	</body>
+</html>
