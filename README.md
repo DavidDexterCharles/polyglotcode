@@ -1,6 +1,8 @@
 # polyglotcode
-#Tutorials: https://www.youtube.com/watch?v=Wb-K40mkhEU&index=2&list=PL0DA14EB3618A3507
+
 https://developer.github.com/v3/repos/#list-languages
+
+#Curl Tutorials: https://www.youtube.com/watch?v=W7JvusW2Odo&list=PLaxtXLm-0MvyWwAr4hp0ouK3l-lESKaFZ
 
 http://engineering.hackerearth.com/2014/08/21/python-requests-module/ # Api Tool to use apis(python)
 
