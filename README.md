@@ -4,6 +4,8 @@ https://developer.github.com/v3/repos/#list-languages
 
 #Curl Tutorials: https://www.youtube.com/watch?v=W7JvusW2Odo&list=PLaxtXLm-0MvyWwAr4hp0ouK3l-lESKaFZ
 
+#Github rate Limit: https://developer.github.com/v3/#rate-limiting
+
 http://engineering.hackerearth.com/2014/08/21/python-requests-module/ # Api Tool to use apis(python)
 
 https://api.github.com/users/ICE-WOLF/repos # all repos belonging to ICE-WOLF
