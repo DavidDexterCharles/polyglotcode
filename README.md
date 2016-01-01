@@ -1,5 +1,9 @@
 # polyglotcode
 
+https://github.com/KnpLabs/php-github-api/blob/master/doc/repos.md  (PHP API Documentation)
+
+https://github.com/KnpLabs/php-github-api (PHP API Documentation)
+
 https://developer.github.com/v3/repos/#list-languages
 
 #Curl Tutorials: https://www.youtube.com/watch?v=W7JvusW2Odo&list=PLaxtXLm-0MvyWwAr4hp0ouK3l-lESKaFZ
