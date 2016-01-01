@@ -4,9 +4,10 @@ https://developer.github.com/v3/repos/#list-languages
 
 #Curl Tutorials: https://www.youtube.com/watch?v=W7JvusW2Odo&list=PLaxtXLm-0MvyWwAr4hp0ouK3l-lESKaFZ
 
-#Curl Linkc
+#Curl Links
 
 >https://github.com/php-curl-class/php-curl-class
+
 >http://php.net/manual/en/function.curl-multi-getcontent.php
 
 #Github rate Limit: https://developer.github.com/v3/#rate-limiting
