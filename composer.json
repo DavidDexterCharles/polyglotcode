@@ -1,5 +1,6 @@
 {
     "require": {
-        "knplabs/github-api": "^1.5"
+        "knplabs/github-api": "^1.5",
+        "php-curl-class/php-curl-class": "^4.8"
     }
 }
