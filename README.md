@@ -1,5 +1,21 @@
 # polyglotcode
 
+#Reuierments
+
+> +Search by user
+
+> +Newest code
+
+> +Highest Stared
+
+> +RepoTile-rating,description,user,languages associated
+
+> +Share an Experience you had with (python,java,Haskell,R,etc.)
+
+> +StoryTile- My First Python Programme, By ICE-WOLF
+
+> +StoryTile- when clicked on carries you to the story board,where you can continue reading the experience, on your profile under the specific language you can see all the stories you added pertaining to the language, you can add or delete a story here or you can add or delete a story on the main page, at your story board persons can choose to like your story,you must sign in with your github info to be able to write a story. Stories can be viewed based on most likes,newest,read or unread ,can be searched by user ,Story title
+
 https://github.com/KnpLabs/php-github-api/blob/master/doc/repos.md  (PHP API Documentation)
 
 https://github.com/KnpLabs/php-github-api (PHP API Documentation)
