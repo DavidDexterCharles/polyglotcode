@@ -2,7 +2,15 @@
 
 #Boots Strap
 
-https://gist.github.com/ICE-WOLF/90bc1670e3d2b542f4ee
+>http://www.w3schools.com/bootstrap/trybs_theme_me_complete.htm#
+
+>http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_scrollspy_affix&stacked=h
+
+>http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_scrollspy&stacked=h
+
+>http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_scrollspy_animate&stacked=h
+
+>https://gist.github.com/ICE-WOLF/90bc1670e3d2b542f4ee
 
 #Reuierments
 
