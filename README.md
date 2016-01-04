@@ -1,5 +1,9 @@
 # polyglotcode
 
+# Dictating Language Proficiency
+
+>http://english.stackexchange.com/questions/59612/difference-between-mastery-proficiency-and-familiarity
+
 #Boots Strap
 
 >http://www.w3schools.com/bootstrap/trybs_theme_me_complete.htm#
