@@ -2,6 +2,8 @@
 
 # Dictating Language Proficiency
 
+> http://macbeth.cs.ucdavis.edu/lang_study.pdf
+
 >https://www.quora.com/When-can-you-say-that-you-know-a-programming-language
 
 >http://www.devthought.com/2009/02/24/the-four-stages-of-programming-competence/
