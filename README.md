@@ -2,6 +2,8 @@
 
 # Dictating Language Proficiency
 
+>http://www.devthought.com/2009/02/24/the-four-stages-of-programming-competence/
+
 >http://english.stackexchange.com/questions/59612/difference-between-mastery-proficiency-and-familiarity
 
 #Boots Strap
