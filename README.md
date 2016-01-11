@@ -90,6 +90,12 @@ https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programm
 
 >wikipedia api ( Get info of a particular page based on section number) https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programming_languages&prop=text&section=1
 
+>http://learnjavascript.co.uk/jq/jqadvanced/ajaxshorthand.html
+
+>http://jsonlint.com/
+
+>http://blog.pdsullivan.com/posts/2014/10/06/api-angularjs-tutorial.html
+
 +Add a Python Experience
 
 +Add a Java Experience
