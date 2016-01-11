@@ -2,6 +2,8 @@
 
 >https://docs.angularjs.org/api/ng/directive/ngClass
 
+>http://stackoverflow.com/questions/19189849/whats-the-best-database-for-storing-json
+
 # Dictating Language Proficiency
 
 > http://macbeth.cs.ucdavis.edu/lang_study.pdf
