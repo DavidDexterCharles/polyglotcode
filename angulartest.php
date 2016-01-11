@@ -3,11 +3,11 @@
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 <body>
 
-<div ng-app="myApp" ng-controller="customersCtrl">
+<div ng-app="myApp" ng-controller="followersCtrl">
 
     <ul>
-        <li ng-repeat="x in names">
-            {{ x.Name + ', ' + x.Country }}
+        <li ng-repeat="x in followers">
+            {{ x.login + ', ' + x.html_url }}
         </li>
     </ul>
 
@@ -17,10 +17,10 @@
 
     var app = angular.module('myApp', []);
 
-    app.controller('customersCtrl', function($scope, $http)
+    app.controller('followersCtrl', function($scope, $http)
     {
-        $http.get("http://www.w3schools.com/angular/customers.php")
-        .then(function (response) {$scope.names = response.data.records;});
+        $http.get("https://api.github.com/users/ICE-WOLF/followers")
+        .then(function (response) {$scope.followers = response.data;});
     });
 </script>
 
