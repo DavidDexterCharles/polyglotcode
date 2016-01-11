@@ -98,6 +98,8 @@ https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programm
 
 >http://www.stata.com/features/documentation/
 
+>https://en.wikipedia.org/wiki/Factor_analysis
+
 +Add a Python Experience
 
 +Add a Java Experience
