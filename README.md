@@ -1,5 +1,7 @@
 # polyglotcode
 
+>https://docs.angularjs.org/api/ng/directive/ngClass
+
 # Dictating Language Proficiency
 
 > http://macbeth.cs.ucdavis.edu/lang_study.pdf
