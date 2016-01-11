@@ -96,6 +96,8 @@ https://en.wikipedia.org/w/api.php?format=xml&action=parse&page=List_of_programm
 
 >http://blog.pdsullivan.com/posts/2014/10/06/api-angularjs-tutorial.html
 
+>http://www.stata.com/features/documentation/
+
 +Add a Python Experience
 
 +Add a Java Experience
