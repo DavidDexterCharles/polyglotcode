@@ -34,7 +34,7 @@
 
 >https://gist.github.com/ICE-WOLF/90bc1670e3d2b542f4ee
 
-#Reuierments
+#Requirements
 
 > +Search by user
 
